@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+
+  <id>com.ralf.controlps</id>
+
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+
+  <name>Control PS</name>
+
+  <summary>Monitor de batería para mandos de Sony PlayStation</summary>
+
+  <developer id="linux.digital">
+    <name>Ralf Lázzari</name>
+  </developer>
+
+  <description>
+    <p>
+      Aplicación ligera escrita en Python y Qt (PySide6)
+      para monitorear el estado de batería y conexión
+      de mandos DualShock 4 y DualSense en Linux.
+    </p>
+
+    <p>
+      Incluye monitoreo en tiempo real, notificaciones
+      sonoras y configuración de niveles mínimos y máximos
+      de batería.
+    </p>
+  </description>
+
+  <launchable type="desktop-id">com.ralf.controlps.desktop</launchable>
+
+  <categories>
+    <category>Utility</category>
+    <category>Game</category>
+  </categories>
+
+  <screenshots>
+    <screenshot type="default">
+      <image type="source">https://raw.githubusercontent.com/SoySH/ControlPS/refs/heads/main/dualshock.png</image>
+    </screenshot>
+
+    <screenshot>
+      <image type="source">https://raw.githubusercontent.com/SoySH/ControlPS/refs/heads/main/dualsense.png</image>
+    </screenshot>
+  </screenshots>
+
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+  </content_rating>
+
+  <url type="homepage">https://github.com/SoySH/ControlPS</url>
+
+  <url type="bugtracker">https://github.com/SoySH/ControlPS/issues</url>
+
+  <releases>
+    <release version="1.0.0" date="2026-06-12"/>
+  </releases>
+
+</component>
+

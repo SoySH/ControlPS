@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+
+Name=Control PS
+Comment=Monitor de batería para mandos DualShock y DualSense
+
+Exec=control_ps
+Icon=com.ralf.controlps
+
+Terminal=false
+StartupNotify=true
+
+Categories=Utility;Settings;Game;
