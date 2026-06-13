@@ -56,4 +56,4 @@ modules:
     sources:
       - type: archive
         url: https://github.com/SoySH/ControlPS/archive/refs/tags/v1.0.0.tar.gz
-        sha256: b3a86e33f01e4a51fedbffd4b21a74c12f3e5ead797fe04933de28c79f56735e
+        sha256: 2a1c43e72759a90b3cd04087ac81405328d1e18af9b68e52c7ad305e07e46690
