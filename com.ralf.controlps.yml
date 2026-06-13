@@ -29,7 +29,7 @@ modules:
     sources:
       - type: archive
         url: https://dbus.freedesktop.org/releases/dbus-python/dbus-python-1.3.2.tar.gz
-        sha256: ad67819308618b5069537be237f8e68ca1c7fcc95ee4a121fe6845b1418248f8
+        sha256: 2a1c43e72759a90b3cd04087ac81405328d1e18af9b68e52c7ad305e07e46690
 
   - name: ControlPS
     buildsystem: simple
